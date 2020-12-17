@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body{
+  background-color: black;
+  margin-top: 180px;
+}
+h1,h4{
+  text-align: center;
+  text-decoration: cornsilk;
+  text : white;
+}
